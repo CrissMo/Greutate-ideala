@@ -15,7 +15,7 @@ int main()
     cout << " Greutatea ideala daca esti barbat este: " << g << " kg."  <<endl ;
     cout << " Greutatea ideala daca esti femeie este: " << g * 0.9 << " kg." << endl;
 
-    cin . get( );
+
 
     return 0;
 }
